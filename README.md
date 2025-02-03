@@ -68,23 +68,10 @@ The animal Tiger is walking
 ---
 
 ## 📜 License
-This project is **open-source**. Feel free to modify and use it for learning purposes.
+This project is open-source. Feel free to modify and use it for learning purposes.
 
 ---
 
 🎉 **Enjoy exploring the Zoo Animal Simulation!** 🚀
-```
 
----
 
-### **Next Steps:**
-1. **Save this file** as `README.md` inside your project folder.
-2. **Push it to GitHub** using:
-   ```sh
-   git add README.md
-   git commit -m "Added README file"
-   git push origin main
-   ```
-3. **Check your GitHub repository**—the README will be displayed automatically.
-
-You're done! 🎯 🚀 Let me know if you need any modifications.
