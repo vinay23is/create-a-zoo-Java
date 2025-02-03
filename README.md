@@ -1,5 +1,3 @@
-### **README.md**
-```md
 # Zoo Animal Simulation in Java
 
 This project is a **console-based Zoo Animal Simulation** built in Java. It allows users to interact with different animal species (**Tiger, Dolphin, and Penguin**) by setting their properties and simulating actions like **walking, swimming, and eating**.
