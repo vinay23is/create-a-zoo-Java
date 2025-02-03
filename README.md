@@ -1,9 +1,3 @@
-Here’s your **README.md** file:  
-
-Save this file inside your project folder and push it to GitHub.  
-
----
-
 ### **README.md**
 ```md
 # Zoo Animal Simulation in Java
